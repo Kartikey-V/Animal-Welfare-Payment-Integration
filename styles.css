@@ -1,0 +1,179 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html{
+  scroll-behavior: smooth;
+}
+p{
+  font-family: 'Merriweather', serif;
+  color: #09015f;
+}
+i{
+  font-size: 20px;
+}
+body{
+  background-color: #fff3e6;
+}
+#about-us{
+
+padding-bottom: 50px;
+}
+header{
+  background-color: #aaaaaa;
+  position: sticky;
+  top: 0;
+  height: 54px;
+  width: 100%;
+  z-index: 10;
+}
+header a{
+  text-decoration: none;
+  color: #a4ebf3;
+  font-size: 18px;
+  padding: 10px 5px;
+}
+header li{
+  list-style-type: none;
+  display: inline;
+  text-align: center;
+  padding-left: 30px ;
+}
+
+header a:hover{
+  background-color: white;
+}
+.header-logo{
+  display: inline;
+}
+header nav{
+  float: right;
+  padding: 15px;
+  height: 54px;
+}
+
+header ul{
+  display: inline-block;
+}
+img{
+  margin-left:10px ;
+}
+footer{
+  background-color: #a4ebf3;
+  padding: 20px 0;
+}
+footer ul{
+text-align: center;
+padding-top: 10px;
+}
+footer li{
+  display: inline-block;
+}
+footer a{
+  margin-right: 30px ;
+  color: white;
+}
+footer a:hover{
+  color: black;
+}
+footer i{
+  font-size: 30px;
+}
+
+#home{
+  text-align: center;
+}
+
+h1{
+  color: #845ec2;
+  font-size: 50px;
+  
+  margin-top: 60px;
+}
+h2{
+  color: black;
+  font-size: 40px;
+}
+h3{
+  text-align: center;
+  padding: 60px 0 10px 0;
+  color: #09015f;
+  font-size: 30px;
+  
+}
+#about-us table{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 50px;
+}
+#about-us td{
+  width: 40%;
+}
+
+.gallery img{
+  opacity: 0.5;
+  
+}
+.gallery img:hover{
+  opacity: 1;
+}
+#photo-gallery{
+  text-align: center;
+}
+#photo-gallery table{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#photo-gallery td{
+  padding-bottom: 30px;
+}
+.gallery {
+  table-layout: auto;
+  width: 95%;
+}
+#contact-us table{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#contact-us p{
+  margin: 10px 0;
+}
+footer p{
+  text-align: center;
+  margin-top: 15px;
+}
+#about-us img{
+  padding-left: 200px;
+}
+#about-us p{
+  padding-right: 200px;
+  text-align: left;
+}
+form{
+  margin-bottom: 20px;
+}
+
+.top-background{
+  background-image: url("Images/top-background.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 920px;
+}
+.top-inner-background{
+  position: relative;
+  top: 50px;
+  left: 300px;
+  width: 70%;
+  height: 80%;
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
