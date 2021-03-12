@@ -8,6 +8,5 @@ In this task, my role was to develop a webpage that is integrated with a Payment
 * Languages - HTML, CSS
 
 ## Links:
-* Website - https://lnkd.in/eTvGD4H
-* GitHub Repository - https://lnkd.in/egDmWnm
-* YouTube - https://lnkd.in/e2uWG9m
+* Website - https://kartikey-v.github.io/Animal-Welfare-Payment-Integration/
+* YouTube - https://youtu.be/9uxLfMv-BAY
